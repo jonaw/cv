@@ -10,7 +10,7 @@
 
 ## Arbeidserfaring
 | Periode | Selskap | Stilling |
-| 02-2016 - | Andhøy Data AS | Systemutvikler |
+| 02-2016- | Andhøy Data AS | Systemutvikler |
 
 ## Sertifikater
 | Førerkort | Klasse B |
