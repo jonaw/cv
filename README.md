@@ -14,6 +14,7 @@
 | 02.2016- | Andhøy Data AS | Systemutvikler |
 
 ## Sertifikater
+| --- | --- |
 | Førerkort | Klasse B |
 | Kompetansebevis | T1, T2, T3 |
 
