@@ -9,6 +9,7 @@
 | 08.2006-06.2007 | Askim Videregående skole | Teknikk og industriell produksjon |
 
 ## Arbeidserfaring
+| Periode | Selskap | Stilling |
 | 02-2016 - | Andhøy Data AS | Systemutvikler |
 
 ## Sertifikater
