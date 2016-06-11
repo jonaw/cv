@@ -1,5 +1,7 @@
 # CV
 ## Utdanning
+| Periode | Institusjon | Program |
+| --------------- | --------------- | --------------- |
 | 08.2011-06.2014 | Høgskolen i Østfold | Bachelor i informatikk |
 | 04.2012-06.2012 | Høgskolen i Østfold | Forkurs i matematikk, R1 (2MX) |
 | 08.2010-06.2011 | Midt-Østerdal Videregående skole | VG3 Påbygning |
